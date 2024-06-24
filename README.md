@@ -1,5 +1,5 @@
 
-# HTB - Iced Tea Solution/Walkthrough
+# Hack the Box (HTB) - Iced Tea Solution/Walkthrough
 
 - [Requirements](#requirements)
 - [Recon](#recon)
